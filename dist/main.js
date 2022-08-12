@@ -1,1 +1,1 @@
-console.log("123");
+(()=>{"use strict";document.getElementById("root").innerHTML="\n\n    <h1> Welcome </h1>\n    \n"})();
