@@ -1,1 +1,1 @@
-(()=>{"use strict";document.getElementById("root").innerHTML="\n\n    <h1> Welcome </h1>\n    \n"})();
+!function(){"use strict";document.getElementById("root").innerHTML="\n".concat("\n    <h1> Welcome </h1>\n    ","\n")}();
